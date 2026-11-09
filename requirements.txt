@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain-core
+transformers==4.44.2
+torch
+sentencepiece
+sacremoses

@@ -1,0 +1,14 @@
+# Ambientes virtuais
+.venv/
+venv/
+ambiente_q3/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente
+.env
+
+# Arquivos do VS Code
+.vscode/
